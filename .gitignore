@@ -18,9 +18,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-app.js
-chatbot.js
-chatgpt.js
-dlocalgo.js
-test.js
-test2.js
+/tests
