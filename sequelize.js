@@ -5,5 +5,9 @@ const sequelize = new Sequelize('u567409048_ppe', 'u567409048_ppe', 'MValencia12
   dialect: 'mysql',
   logging: false
 }); 
-
+/* const sequelize = new Sequelize('ppe', 'root', '', {
+  host: 'localhost',
+  dialect: 'mysql',
+  logging: false
+});  */
 module.exports = sequelize;
